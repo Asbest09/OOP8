@@ -1,0 +1,7 @@
+C:\Users\Sonic\source\repos\OOP8\OOP8\bin\Debug\OOP8.exe.config
+C:\Users\Sonic\source\repos\OOP8\OOP8\bin\Debug\OOP8.exe
+C:\Users\Sonic\source\repos\OOP8\OOP8\bin\Debug\OOP8.pdb
+C:\Users\Sonic\source\repos\OOP8\OOP8\obj\Debug\OOP8.csproj.AssemblyReference.cache
+C:\Users\Sonic\source\repos\OOP8\OOP8\obj\Debug\OOP8.csproj.CoreCompileInputs.cache
+C:\Users\Sonic\source\repos\OOP8\OOP8\obj\Debug\OOP8.exe
+C:\Users\Sonic\source\repos\OOP8\OOP8\obj\Debug\OOP8.pdb
